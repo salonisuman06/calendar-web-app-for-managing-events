@@ -1,2 +1,5 @@
 # calendar-web-app-for-managing-events
-THIS IS A CALENDAR WEB APP BUILT IN HTML,CSS AND JS. EVENTS CAN BE ADDED EASILY AND YOUR DAY CAN BE MANAGED EFFICIENTLY WITHOUT ANY RUSH AND CONFUSIONS.PLEASE GO AHEAD,HAVE A LOOK,USE AND PLEASE SHARE YOUR VIEWS.
+This is a calendar web app built in HTML,CSS and JS. This calendar app is useful in adding events and reminders in order to stay up-to-date.
+
+## Screenshots
+
